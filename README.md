@@ -17,7 +17,9 @@ Head over to my streamlit app! Insta-Inspect
 # 2
 _<div align="center">Real-Time Human Pose Estimation using OpenCV and MediaPipe</strong></div>_
 
-![output_video_1](https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/19445b0a-1a2c-494d-9e6c-37f0aef4602a)
+https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/69da41f6-cc07-4349-a78e-93c5e6feb963
+
+
 
 
 # 3
@@ -25,6 +27,14 @@ _<div align="center">Automatic Object Outline - Border Detection using openCV an
 
 ![ROI](https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/eac7f343-0cf1-47c7-94c9-d0eb05ef4257)
 ![final_1](https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/d71dc98e-2c29-4871-9aa3-36b935cc70b9)
+
+# 4
+_<div align="center">A fun problem!</strong></div>_
+Detection and Visualization of Red Dot on Green Polka Dots using OpenCV
+
+https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/0e258414-d023-4a86-a3c5-b1e6985cd526
+
+
 
 <hr />
 
