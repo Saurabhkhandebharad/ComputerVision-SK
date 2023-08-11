@@ -32,7 +32,7 @@ _<div align="center">Automatic Object Outline - Border Detection using openCV an
 _<div align="center">A fun problem!</strong></div>_
 Detection and Visualization of Red Dot on Green Polka Dots using OpenCV
 
-https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/0e258414-d023-4a86-a3c5-b1e6985cd526
+https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/60354337-554d-44bd-9640-a9d38b2c78c0
 
 
 
