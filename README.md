@@ -11,7 +11,9 @@ _<div align="center">Text Recognition and Extraction with OpenCV and EasyOCR</st
 
 
 Want to its real world application?
-Head over to my streamlit app! Insta-Inspect
+Head over to my streamlit app! 
+
+Insta-Inspect - https://github.com/Saurabhkhandebharad/Streamlit_Apps-SK
 
 
 # 2
