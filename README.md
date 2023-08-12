@@ -10,7 +10,7 @@ _<div align="center">Text Recognition and Extraction with OpenCV and EasyOCR</st
 ![Alabama's](https://github.com/Saurabhkhandebharad/ComputerVision-SK/assets/104715190/b4af8146-9e36-4a7e-9c82-29887ce4ec2a)
 
 
-Want to its real world application?
+Want to see a real world application?
 Head over to my streamlit app! 
 
 Insta-Inspect - https://github.com/Saurabhkhandebharad/Streamlit_Apps-SK
